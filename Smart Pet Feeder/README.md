@@ -44,7 +44,7 @@ I used 4 different peripherals.
 
 This project has been really beneficial for me to learn these peripherals and how to program them.I also used External Interrupt and Timer Interrupt.
 
-As i mentioned in the beginning, instructions are sent to STM32 with android application over bluetooth connection.I programmed this android application using QT-C++.
+As i mentioned in the beginning, instructions are sent to STM32 with android application over bluetooth connection.I programmed this android application using QT-C++.Code for app please go to QT repository
 <p float="left">
   <img src="images/AndroidApp1.jpeg" height = "750"/>
   <img src="images/AndroidApp2.jpeg" height = "750"/>
