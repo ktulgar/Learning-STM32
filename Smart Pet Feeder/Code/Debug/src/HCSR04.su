@@ -1,0 +1,5 @@
+HCSR04.cpp:10:1:HCSR04::HCSR04()	16	static
+HCSR04.cpp:15:6:void HCSR04::TIM2Config()	16	static
+HCSR04.cpp:21:6:void HCSR04::initGPIO()	16	static
+HCSR04.cpp:38:6:void HCSR04::delayUS(uint32_t)	16	static
+HCSR04.cpp:44:5:int HCSR04::getDistance()	24	static

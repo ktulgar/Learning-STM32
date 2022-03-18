@@ -1,0 +1,6 @@
+core_cm4.h:1626:22:void NVIC_EnableIRQ(IRQn_Type)	16	static
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+HC05.cpp:10:1:HC05::HC05()	16	static
+HC05.cpp:15:6:void HC05::initUart4()	16	static
+HC05.cpp:27:6:void HC05::initUart5()	16	static
+HC05.cpp:36:6:void HC05::sendMessage(std::__cxx11::string)	32	static
