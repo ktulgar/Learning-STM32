@@ -1,0 +1,5 @@
+main.c:22:5:main	8	static
+main.c:36:6:initSystemClock	8	static
+main.c:59:6:initGPIO	4	static
+main.c:67:6:initADC	16	static
+main.c:92:5:getADCValue	4	static
