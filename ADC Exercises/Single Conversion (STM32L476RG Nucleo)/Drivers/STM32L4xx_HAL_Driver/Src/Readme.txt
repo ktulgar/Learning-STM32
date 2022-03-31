@@ -1,1 +1,0 @@
-Atollic TrueSTUDIO - Add STM32L4xx HAL Drivers here.
