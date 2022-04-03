@@ -70,7 +70,7 @@ void initADC(enum Resulotion resulotion,enum Allignment allignment){
 
 	ADC1->CR2 |= (1 << 0);          // Turn ADC On
 
-                                    // ADC can run at 36 MHZ at most.
+                                        // ADC can run at 36 MHZ at most.
 	ADC->CCR |= (1 << 16);          // PCLK2 divided by 4. Now ADC clock is 25 MHz.
 
 	// Resulotion
