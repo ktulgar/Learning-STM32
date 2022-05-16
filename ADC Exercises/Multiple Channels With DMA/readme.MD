@@ -1,4 +1,4 @@
 ## STM32F411 Discovery was used.
 ## Register Level
-## Video 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X9T0ZND_eZc/0.jpg)](https://youtu.be/X9T0ZND_eZc)
+## Video (4 Channels)
+[![IMAGE ALT TEXT HERE](https://youtu.be/OEbw9xcN2GM/0.jpg)](https://youtu.be/OEbw9xcN2GM)
