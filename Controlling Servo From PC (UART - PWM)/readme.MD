@@ -1,4 +1,4 @@
-### Demo Will appear here
+### Demo will appear here
 
 <img src="Gif/Demo.gif"/>
 
