@@ -1,0 +1,1 @@
+# I don't know much about freertos and multitasking operations on MCU. That's why i started making practices about it.In this file, i publish the exercises that i did.Difficulty of exercise will vary. It will start from very easy and go to complex projects.  
