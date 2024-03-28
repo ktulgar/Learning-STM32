@@ -45,9 +45,9 @@ SPI_HandleTypeDef hspi1;
 
 /* USER CODE BEGIN PV */
 
-int16_t samples[8096];
+int16_t samples[4096];
 
-float fft_buffer[8192];
+float fft_buffer[4096];
 float fft_result[4096];
 
 float magnitude_noisy_speech[2048];
